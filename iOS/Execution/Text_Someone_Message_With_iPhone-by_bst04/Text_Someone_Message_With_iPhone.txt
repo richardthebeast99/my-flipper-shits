@@ -1,7 +1,7 @@
 REM ==================================
 REM iOS - devices
 REM made by **bst04**
-REM change [person] and [text]
+REM change [junior] and [hi]
 REM ==================================
 
 DELAY 1500
@@ -17,7 +17,7 @@ ENTER
 DELAY 1500
 GUI n
 DELAY 250
-STRING [person]
+STRING [junior]
 DELAY 500
 ENTER
 DELAY 250
@@ -25,6 +25,6 @@ TAB
 ENTER
 DOWNARROW
 DELAY 500
-STRING [text]
+STRING [hi]
 DELAY 500
 ENTER
